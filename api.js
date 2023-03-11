@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
               font-family: 'Source Code Pro', monospace;
               font-size: 16px;
               line-height: 1.5;
-              background-image: url('https://i.ibb.co/SfYrvGr/background.jpg');
+              background-image: url('https://i.ibb.co/dpNWgvZ/background.jpg');
               background-repeat: no-repeat;
               background-size: cover;
               padding: 1px; /* add a small padding to fix any issues with the background image not being fully blurred at the edges of the screen */
